@@ -1,0 +1,70 @@
+\t (00:00:32) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:32)     Journal start - Thu Aug 01 12:20:45 2019
+\t (00:00:32)         Host=USER-PC User=user Pid=7976 CPUs=4
+\t (00:00:32) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:32) 
+\d (00:00:32) Design opened: C:/Users/user/Desktop/신성욱 교수님/exam/0801_1/allegro/OSC.brd
+\i (00:00:32) generaledit 
+\i (00:00:32) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out 14.342 24.516
+\i (00:00:33) trapsize 94
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out 14.342 24.515
+\i (00:00:33) trapsize 189
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 14.304 24.629
+\i (00:00:33) trapsize 94
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out 15.096 24.478
+\i (00:00:33) trapsize 189
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 15.096 24.478
+\i (00:00:34) trapsize 377
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 15.247 24.478
+\i (00:00:34) trapsize 754
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 15.549 24.478
+\i (00:00:34) trapsize 1509
+\i (00:00:35) zoom in 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom in -23.965 52.672
+\i (00:00:35) trapsize 754
+\i (00:00:35) zoom in 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom in -2.995 53.276
+\i (00:00:35) trapsize 377
+\i (00:00:35) roam x 96 
+\i (00:00:35) roam x 96
+\i (00:00:36) roam x 96 
+\i (00:00:36) roam x 96
+\i (00:00:36) zoom out 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out 26.725 48.071
+\i (00:00:36) trapsize 754
+\i (00:00:59) zoom in 1 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) zoom in 27.931 49.882
+\i (00:00:59) trapsize 377
+\i (00:01:00) zoom out 1 
+\i (00:01:00) setwindow pcb
+\i (00:01:00) zoom out 27.629 48.902
+\i (00:01:00) trapsize 754
+\i (00:01:00) zoom in 1 
+\i (00:01:00) setwindow pcb
+\i (00:01:00) zoom in 27.630 48.901
+\i (00:01:00) trapsize 377
+\i (00:01:03) zoom out 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom out 49.279 38.040
+\i (00:01:03) trapsize 754
+\i (00:01:09) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:01:14) exit 
+\t (00:01:15)     Journal end - Thu Aug 01 12:21:28 2019

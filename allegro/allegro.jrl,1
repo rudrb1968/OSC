@@ -1,0 +1,22 @@
+\t (00:00:16) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:16)     Journal start - Thu Aug 01 12:20:29 2019
+\t (00:00:16)         Host=USER-PC User=user Pid=7976 CPUs=4
+\t (00:00:16) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:16) 
+   (00:00:16) Loading axlcore.cxt 
+\t (00:00:24) Opening existing design...
+\i (00:00:27) fillin no 
+\e (00:00:27) Failed to open design since it is locked - C:/USERS/USER/DESKTOP/신성욱 교수님/EXAM/0801_1/allegro/OSC.brd
+\t (00:00:27) Starting new design...
+\i (00:00:27) trapsize 1716
+\i (00:00:27) trapsize 1756
+\i (00:00:28) trapsize 2852
+\i (00:00:28) trapsize 2900
+\i (00:00:28) trapsize 28074
+\i (00:00:28) generaledit 
+\i (00:00:29) open 
+\i (00:00:31) fillin "OSC.brd"
+\t (00:00:31) Opening existing design...
+\i (00:00:32) fillin yes 
+\i (00:00:32) trapsize 47
+\t (00:00:32)     Journal end - Thu Aug 01 12:20:45 2019
